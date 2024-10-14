@@ -1,7 +1,7 @@
 import { useEffect, useRef } from 'react';
 import LocomotiveScroll from 'locomotive-scroll';
 import 'locomotive-scroll/src/locomotive-scroll.scss'; // Import Locomotive Scroll's styles
-import Navbar from './components/Navbar';
+import Navbar from './components/NavBar';
 import Hero from './components/Hero';
 import Highlights from './components/Highlights';
 import Model from './components/Model';
