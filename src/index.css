@@ -13,11 +13,6 @@
   display: none;
 }
 
-/* Additional styling for Locomotive Scroll */
-[data-scroll-container] {
-  overflow: hidden;
-}
-
 body {
   color: white;
   width: 100dvw;
